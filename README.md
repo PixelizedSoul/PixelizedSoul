@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PixelizedSoul, I have art, engineering and management backgrounds, currently working as an art director
+- 👋 Hi, I’m @PixelizedSoul, I have art, engineering and management backgrounds
 - 👀 I’m interested in c/c++, python, lua, gaming, game systems, gameplay programming, game AI, graphics, deep learning, automation
 - 🌱 I’m currently learning coding in general, game engine systems, gameplay systems, game AI, deep learning
-- 💞️ I’m looking to collaborate on short projects in gaming and deep learning
 - 📫 How to reach me: office@pixelizedsoul.com, www.pixelizedsoul.com, blog.pixelizedsoul.com
 
 <!---
